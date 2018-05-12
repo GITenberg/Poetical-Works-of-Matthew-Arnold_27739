@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1401
     wikipedia: http://en.wikipedia.org/wiki/Matthew_Arnold
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27739#Poetical-Works-of-Matthew-Arnold
 gutenberg_issued: '2009-01-07'
 gutenberg_type: Text
 identifiers:
