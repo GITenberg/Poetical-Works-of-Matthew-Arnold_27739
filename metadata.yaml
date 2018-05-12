@@ -1,0 +1,27 @@
+_repo: Poetical-Works-of-Matthew-Arnold_27739
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arnold, Matthew
+    birthdate: 1822
+    deathdate: 1888
+    gutenberg_agent_id: '1401'
+    url: http://www.gutenberg.org/2009/agents/1401
+    wikipedia: http://en.wikipedia.org/wiki/Matthew_Arnold
+description: ''
+gutenberg_issued: '2009-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27739'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+title: Poetical Works of Matthew Arnold
+url: http://www.gutenberg.org/ebooks/27739
